@@ -1,1 +1,10 @@
-Replace this with a list of your favorite things.
+* Favorite Sports
+  * Reading
+  * Swimming
+  * Climb
+  * Run
+* Favorite Books
+  * Harry Portter
+* Favorite Places
+  * Park
+  * Library
