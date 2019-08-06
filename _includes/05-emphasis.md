@@ -1,1 +1,4 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+* I know **mysql**
+* I know _algorithms_
+* __I like Java__ :heart:
+* I am learning _Markdown_ and __how to use the Github__
